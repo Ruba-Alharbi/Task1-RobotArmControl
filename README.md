@@ -11,5 +11,7 @@ This task contains 4 sub-tasks:
 This repository contains:
 1. HTML page >> contains the control arm interface,
 2. CSS page >>  contains the design of the control arm interface,
-3. 2 pages of PHP ( conn.php> contains the code to connect the database with the interface, dataRetrieval.php> contains the code to connect the database with the hardware that retrieves the data of the angles of the motors.)
+3. 2 pages of PHP 
+  3.1 conn.php> contains the code to connect the database with the interface, 
+  3.2 dataRetrieval.php> contains the code to connect the database with the hardware that retrieves the data of the angles of the motors.
 
